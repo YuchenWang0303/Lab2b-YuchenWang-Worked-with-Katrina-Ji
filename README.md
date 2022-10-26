@@ -7,7 +7,7 @@ Since Holloween is coming this weekend, we would like to design LED patterns tha
 
 ## Circuit Diagram
 ### RP2040 Pin Diagram
-[insert pin diagram]
+![image](https://user-images.githubusercontent.com/114244957/198074981-7d66116f-f811-49d4-bf3d-b19e5d4aa145.png)
 
 ### Circuit Diagram
 
