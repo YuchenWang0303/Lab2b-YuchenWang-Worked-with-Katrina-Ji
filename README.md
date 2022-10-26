@@ -11,7 +11,7 @@ Since Holloween is coming this weekend, we would like to design LED patterns tha
 
 ### Circuit Diagram
 
-<img width="503" alt="Screen Shot 2022-10-26 at 11 30 00" src="https://user-images.githubusercontent.com/105755054/198069972-4ca9a709-db5b-4df0-83b6-69de0a1b3fe6.png">
+<img width="503" alt="Screen Shot 2022-10-26 at 11 30 00" src="https://user-images.githubusercontent.com/105755054/198075082-d8371cff-d782-43ee-aa83-87cc1069aa8a.png">
 
 ## Components
 - Yellow LED *1
