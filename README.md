@@ -1,4 +1,4 @@
-# Lab2b-YuchenWang-Worked-with-Katrina-Ji
+Part10: YuchenWang Worked with KatrinaJi
 Team members: Katrina Ji, Yuchen Wang
 
 ## Design Motivation
